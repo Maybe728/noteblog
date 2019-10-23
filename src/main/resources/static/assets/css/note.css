@@ -1,0 +1,17 @@
+
+#note-operate {
+    z-index: 999;
+    text-align: center;
+    padding: 10px;
+    bottom: auto;
+    top: 10px;
+    background: #F2F2F2;
+}
+
+#note-body .sticky {
+    margin-left: 15px;
+    border: 1px solid #ccc;
+    -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .1);
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .1);
+    -webkit-box-sizing: border-box;
+}

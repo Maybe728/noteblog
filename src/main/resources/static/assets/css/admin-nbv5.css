@@ -1,0 +1,8 @@
+.layui-logo i, .layui-logo span:first-of-type {
+    color: #5FB878;
+    font-style: italic;
+    font-weight: bold;
+}
+.editormd-code-toolbar select{
+    display: inline-block !important;
+}
