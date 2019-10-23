@@ -20,8 +20,6 @@ import java.util.Properties;
 
 @Configuration
 public class BeansConfig {
-
-
     /**
      * 验证码配置
      *
