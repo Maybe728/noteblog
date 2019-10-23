@@ -25,15 +25,15 @@ public class DataSourceConfig {
         this.env = env;
     }
 
-    @Value("${db.ip:127.0.0.1}")
+    @Value("${jdbc.ip:47.105.162.183}")
     private String ip;
-    @Value("${db.port:3306}")
+    @Value("${jdbc.port:3306}")
     private String port;
-    @Value("${db.name:noteblog}")
+    @Value("${jdbc.name:noteblog}")
     private String name;
-    @Value("${db.username:root}")
+    @Value("${jdbc.username:root}")
     private String user;
-    @Value("${db.password:root}")
+    @Value("${jdbc.password:728728}")
     private String pass;
 
     @Bean
